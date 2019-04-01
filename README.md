@@ -7,5 +7,7 @@ For instance, if number of wins are equal for both groups, what message should b
 
 - This code is tested against Node v8.12.0
 
-- I have created helper classes to generat alphabet, names, and transformers...
+- I have created helper classes to generate alphabet, names, and transformers...
+
+- I appreciate any broad and/or specific feedback. Thanks!
 
