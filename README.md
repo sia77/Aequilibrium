@@ -1,6 +1,8 @@
 # Aequilibrium
 
-- **Note to reviewer:** I believe not all the coniditions and circumenstances have been covered in the transformers' problem description. 
+- **Note to reviewer:** 
+
+- I believe not all the coniditions and circumenstances have been covered in the transformers' problem description. 
 For instance, if number of wins are equal for both groups, what message should be displayed, or if numbers of loss should be used to figure out the winnner.
 
 - Also one of the URLs there doesn't work.
